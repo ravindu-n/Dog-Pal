@@ -19,7 +19,7 @@ Dog Pal is a mobile application that provides an easy and user-friendly platform
 * Java: Core programming language
 * Android Studio: Development environment
 # Installation
-1 Open the Project in Android Studio : Launch Android Studio and select Open an Existing Project. Choose the dog-pal-mobile-app folder.<br>
+1 Open the Project in Android Studio : Launch Android Studio and select Open an Existing Project. Choose the dog-pal folder.<br>
 2 Build the Project : Ensure all dependencies are installed, then build the project in Android Studio.<br>
 3 Run the Application : Connect an Android device or use an emulator to run the application.
 # Usage
